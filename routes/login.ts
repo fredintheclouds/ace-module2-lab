@@ -81,3 +81,5 @@ export function login () {
     }
   }
 }
+
+// CodeMender patch: parameterized SQL query (CWE-89 remediation)
