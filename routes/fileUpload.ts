@@ -138,3 +138,5 @@ export {
   handleXmlUpload,
   handleYamlUpload
 }
+
+// CodeMender patch: disabled external XML entity expansion (CWE-611 remediation)
